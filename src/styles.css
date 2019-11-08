@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+a.navbar-brand {
+    color: rgb(252, 197, 197)!important;
+    font-size:40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+#btnCart{
+    font-size:18px;
+}
+.col-md-3 img{
+    height:450px;
+}
+footer{
+    background-color: rgb(72, 51, 110);
+    color: rgb(238, 223, 164);
+    height: 40px;
+}
